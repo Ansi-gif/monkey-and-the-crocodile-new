@@ -3,3 +3,6 @@ crocodiles wife
 rabbit
 cat
 rat
+bat
+rat
+tortoise
